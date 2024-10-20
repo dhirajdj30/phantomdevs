@@ -1,0 +1,61 @@
+﻿doctor_id,doctor_name,specialization,experience_years
+1,Dr. Anil Kumar,Cardiology,15
+2,Dr. Suman Sharma,Dermatology,10
+3,Dr. Ravi Verma,Neurology,12
+4,Dr. Priya Gupta,Pulmonology,8
+5,Dr. Vivek Singh,General Practice,7
+6,Dr. Shalini Mehta,Gastroenterology,14
+7,Dr. Rajesh Patil,Rheumatology,9
+8,Dr. Anita Deshmukh,Orthopedics,11
+9,Dr. Sunita Nair,Oncology,16
+10,Dr. Karan Malhotra,Ophthalmology,10
+11,Dr. Arjun Chatterjee,Otorhinolaryngology,13
+12,Dr. Manish Kulkarni,Urology,12
+13,Dr. Ritu Joshi,Psychiatry,7
+14,Dr. Nikhil Jain,Allergy & Immunology,9
+15,Dr. Seema Iyer,Gynaecology,14
+16,Dr. Deepak Rao,Hematology,12
+17,Dr. Akash Aggarwal,Pain Management,8
+18,Dr. Madhavi Lohia,Infectious Disease,11
+19,Dr. Pooja Thakur,Dentistry,10
+20,Dr. Abhishek Sinha,Endocrinology,13
+21,Dr. Vikas Nanda,Cardiology,18
+22,Dr. Kavita Rao,Dermatology,9
+23,Dr. Harish Gupta,Neurology,14
+24,Dr. Preeti Sharma,Pulmonology,6
+25,Dr. Rakesh Agarwal,General Practice,10
+26,Dr. Neha Bansal,Gastroenterology,13
+27,Dr. Suresh Patil,Rheumatology,15
+28,Dr. Radhika Mehra,Orthopedics,10
+29,Dr. Vishal Kaur,Oncology,12
+30,Dr. Amrita Joshi,Ophthalmology,11
+31,Dr. Rajiv Pillai,Otorhinolaryngology,8
+32,Dr. Snehal Kamat,Urology,7
+33,Dr. Anjali Desai,Psychiatry,16
+34,Dr. Varun Sinha,Allergy & Immunology,10
+35,Dr. Rekha Iyer,Gynaecology,12
+36,Dr. Anupama Rao,Hematology,9
+37,Dr. Rohit Kapoor,Pain Management,13
+38,Dr. Arvind Shah,Infectious Disease,14
+39,Dr. Sujata Sen,Dentistry,8
+40,Dr. Sanjay Verma,Endocrinology,12
+41,Dr. Pankaj Kapoor,Cardiology,20
+42,Dr. Meena Nair,Dermatology,11
+43,Dr. Nitin Chawla,Neurology,17
+44,Dr. Alka Sharma,Pulmonology,7
+45,Dr. Rajiv Menon,General Practice,9
+46,Dr. Shruti Patel,Gastroenterology,8
+47,Dr. Yash Deshmukh,Rheumatology,11
+48,Dr. Jaya Prasad,Orthopedics,12
+49,Dr. Divya Bhatia,Oncology,9
+50,Dr. Samir Roy,Ophthalmology,13
+51,Dr. Parul Joshi,Otorhinolaryngology,10
+52,Dr. Bharat Khanna,Urology,9
+53,Dr. Kavita Singh,Psychiatry,8
+54,Dr. Alok Tripathi,Allergy & Immunology,12
+55,Dr. Rekha Naidu,Gynaecology,15
+56,Dr. Mohit Gupta,Hematology,10
+57,Dr. Rachna Jain,Pain Management,11
+58,Dr. Sameer Kulkarni,Infectious Disease,16
+59,Dr. Archana Singh,Dentistry,12
+60,Dr. Abhay Shinde,Endocrinology,10

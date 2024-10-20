@@ -1,0 +1,101 @@
+symptom_id,symptom,associated_specialization
+1,Chest pain,Cardiology
+2,Skin rash,Dermatology
+3,Frequent headaches,Neurology
+4,Coughing,Pulmonology
+5,Fever,General Practice
+6,Abdominal pain,Gastroenterology
+7,Joint pain,Rheumatology
+8,Shortness of breath,Pulmonology
+9,Persistent cough,Pulmonology
+10,Back pain,Orthopedics
+11,Dizziness,Neurology
+12,Weight loss,Endocrinology
+13,Fatigue,General Practice
+14,Nausea,Gastroenterology
+15,Swollen glands,Oncology
+16,Blurred vision,Ophthalmology
+17,Hearing loss,Otorhinolaryngology
+18,Urinary issues,Urology
+19,Depression,Psychiatry
+20,Anxiety,Psychiatry
+21,Allergic reactions,Allergy & Immunology
+22,Sore throat,Otorhinolaryngology
+23,Insomnia,Psychiatry
+24,Menstrual irregularities,Gynaecology
+25,Breast lump,Oncology
+26,Nosebleeds,Otorhinolaryngology
+27,Constipation,Gastroenterology
+28,Diarrhea,Gastroenterology
+29,High blood pressure,Cardiology
+30,Low blood pressure,Cardiology
+31,Heart palpitations,Cardiology
+32,Hair loss,Dermatology
+33,Dry skin,Dermatology
+34,Abnormal bleeding,Hematology
+35,Persistent fever,Infectious Disease
+36,Chronic pain,Pain Management
+37,Difficulty swallowing,Gastroenterology
+38,Persistent vomiting,Gastroenterology
+39,Weakness,General Practice
+40,Chest tightness,Pulmonology
+41,Swelling in legs or feet,Cardiology
+42,Seizures,Neurology
+43,Memory loss,Neurology
+44,Loss of balance,Neurology
+45,Muscle cramps,Neurology
+46,Tingling or numbness,Neurology
+47,Itching,Dermatology
+48,Loss of appetite,General Practice
+49,Excessive sweating,Endocrinology
+50,Night sweats,Infectious Disease
+51,Blood in stool,Gastroenterology
+52,Chest discomfort,Cardiology
+53,Difficulty breathing,Pulmonology
+54,Swollen ankles,Cardiology
+55,Painful urination,Urology
+56,Frequent urination,Urology
+57,Irregular heartbeat,Cardiology
+58,Eye pain,Ophthalmology
+59,Double vision,Ophthalmology
+60,Sensitivity to light,Ophthalmology
+61,Dry eyes,Ophthalmology
+62,Earache,Otorhinolaryngology
+63,Ringing in ears,Otorhinolaryngology
+64,Sinus pain,Otorhinolaryngology
+65,Hoarseness,Otorhinolaryngology
+66,Swollen throat,Otorhinolaryngology
+67,Difficulty chewing,Dentistry
+68,Toothache,Dentistry
+69,Mouth ulcers,Dentistry
+70,Bad breath,Dentistry
+71,Gum bleeding,Dentistry
+72,Facial pain,Neurology
+73,Neck pain,Orthopedics
+74,Shoulder pain,Orthopedics
+75,Elbow pain,Orthopedics
+76,Wrist pain,Orthopedics
+77,Hip pain,Orthopedics
+78,Knee pain,Orthopedics
+79,Ankle pain,Orthopedics
+80,Foot pain,Orthopedics
+81,Muscle weakness,Neurology
+82,Muscle stiffness,Rheumatology
+83,Joint swelling,Rheumatology
+84,Joint redness,Rheumatology
+85,Morning stiffness,Rheumatology
+86,Skin discoloration,Dermatology
+87,Skin lesions,Dermatology
+88,Acne,Dermatology
+89,Eczema,Dermatology
+90,Psoriasis,Dermatology
+91,Warts,Dermatology
+92,Hives,Allergy & Immunology
+93,Persistent infection,Infectious Disease
+94,Chronic fatigue,Endocrinology
+95,Excessive thirst,Endocrinology
+96,Unexplained weight gain,Endocrinology
+97,Swelling of face,Allergy & Immunology
+98,High fever,Infectious Disease
+99,Chills,Infectious Disease
+100,Persistent joint pain,Rheumatology
